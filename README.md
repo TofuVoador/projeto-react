@@ -11,3 +11,4 @@
 * Tenha Node.JS instalado
 * Faça o download deste projeto
 * Com o prompt de comando, execute os comandos `cd projeto-react`, `npm start`
+* Uma nova aba do navegador abrirá. (Caso não abra automaticamente, acesse `localhost:3000`)
